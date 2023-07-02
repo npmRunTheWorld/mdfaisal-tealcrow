@@ -10,7 +10,7 @@
   "categories": [
     "Themes"
   ],
-  "repository": {"url": ""},
+  "repository": {"url": "https://github.com/acej0k3r/mdfaisal-tealcrow"},
   "icon": "images/teal-crow_128.png",
   "contributes": {
     "themes": [
