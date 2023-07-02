@@ -1,8 +1,8 @@
 {
   "name": "mdfaisal-tealcrow",
   "displayName": "mdfaisal.tealcrow",
-  "description": "This theme contains the beautiful colors of teal and orange and plays with other complimenting colors to bring out the best dark theme with many color distinctions. This allows coders to identify all syntax and keywords clearly with precision. important note: Please enable semantic syntax highlighting for best experience",
-  "version": "0.0.7",
+  "description": "This theme contains the beautiful colors of teal and orange and plays with other complimenting colors to bring out the best dark theme with many color distinctions. This allows coders to identify all syntax and keywords clearly with precision.",
+  "version": "0.0.8",
   "publisher":"mdfaisal",
   "engines": {
     "vscode": "^1.79.0"
@@ -10,6 +10,7 @@
   "categories": [
     "Themes"
   ],
+  "repository": {"url": ""},
   "icon": "images/teal-crow_128.png",
   "contributes": {
     "themes": [

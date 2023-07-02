@@ -1,16 +1,28 @@
 # mdfaisal-tealcrow README
 
-## Working with Markdown
+## Description
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+This theme contains the beautiful colors of teal,orange as primary and plays with other complimenting colors to bring out the best dark theme with many color distinctions. This allows coders to identify all syntax and keywords clearly with precision. This can be used with any language but languages like js,jsx,ts,tsx,vue,php,html,css,scss are prioritized for design.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Add sematicTokenColorCustomizations for intended experience
 
-## For more information
+important note: Please enable semantic syntax highlighting for best experience. Add these lines of code in your settings.json file.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+"editor.semanticTokenColorCustomizations": {
+"[Teal-Crow by Faisal]": {
+"enabled": true,
+"rules": {
+"\*.generic": "#e28c67",
+"variable.other.object": "#e28c67",
+"variable.other.object.ts": "#e28c67",
+"meta.directive.show.vue-html": "#e28c67",
+"meta.parameter.type.variable": "#e28c67"
+}
+}
+},
+
+## Contact-me
+
+If you have any questions / requests, please feel free to contact me through[ Email ](mda.faisal95@gmail.com)
 
 **Enjoy!**

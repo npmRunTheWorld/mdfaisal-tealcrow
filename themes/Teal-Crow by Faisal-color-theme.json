@@ -645,12 +645,6 @@
       }
     },
     {
-      "scope": ["variable.language.this", "variable.this", "support.variable"],
-      "settings": {
-        "foreground": "#D3869B"
-      }
-    },
-    {
       "scope": [
         "entity.name",
         "entity.static",
@@ -966,12 +960,17 @@
       }
     },
     {
+      //1ST-4TH
+      //178b5f
+      //dc5824
       "scope": "string.quoted.double.json",
       "settings": {
-        "foreground": "#83A598"
+        "foreground": "#2b9570"
       }
     },
     {
+      //1ST
+      //
       "scope": [
         "source.json meta.structure.dictionary.json support.type.property-name.json"
       ],
@@ -980,22 +979,27 @@
       }
     },
     {
+      //2ND
+      //8EC07C
       "scope": [
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#8EC07C"
+        "foreground": "#dc5824"
       }
     },
     {
+      //dc5824
+      //3ca399
       "scope": [
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#D3869B"
+        "foreground": "#b6285e"
       }
     },
     {
+      //
       "scope": [
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
@@ -1249,7 +1253,7 @@
         "meta.parameter.type.variable"
       ],
       "settings": {
-        "foreground": "#e28c67"
+        "foreground": "#c9bfbb"
       }
     },
     {
@@ -1260,15 +1264,22 @@
       }
     },
     {
-      //22af87
+      //2b9570
+      //1f9269
       "scope": [
         "support.class.php",
         "support.variable.js",
         "support.class.component.js.jsx"
       ],
       "settings": {
-        "foreground": "#418e78",
+        "foreground": "#1f9269",
         "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": ["support.variable.property"],
+      "settings": {
+        "foreground": "#d28f22"
       }
     },
     {
@@ -1304,12 +1315,24 @@
       "scope": [
         "method",
         "entity.name.function.member",
-        "punctuation.section.embedded.end.js.jsx"
+        "punctuation.section.embedded.end.js.jsx",
+        "entity.name.function.blade"
       ],
       "settings": {
         "foreground": "#dd1856"
       }
-      //..
+    },
+    {
+      "scope": ["support.function.misc.scss"],
+      "settings": {
+        "foreground": "#f70909"
+      }
+    },
+    {
+      "scope": ["variable.scss", "variable.css"],
+      "settings": {
+        "foreground": "#e8da93"
+      }
     }
   ]
 }
