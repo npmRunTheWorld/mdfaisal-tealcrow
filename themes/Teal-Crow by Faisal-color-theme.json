@@ -1245,7 +1245,7 @@
     },
     {
       //json.parse
-      //"property": "#2d9756"
+      //"property": "#c7582c"
 
       "scope": [
         "variable.other.object",
@@ -1253,7 +1253,16 @@
         "meta.parameter.type.variable"
       ],
       "settings": {
-        "foreground": "#c9bfbb"
+        "foreground": "#147873"
+      }
+    },
+    {
+      //json.parse
+      //"property": "#2d9756"
+
+      "scope": ["variable.other.object.property.js"],
+      "settings": {
+        "foreground": "#dc5824"
       }
     },
     {
