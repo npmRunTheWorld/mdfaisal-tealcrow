@@ -1225,6 +1225,7 @@
     {
       "scope": [
         "entity.name.directive.vue-html",
+        "entity.other.attribute-name.html",
         "variable.other.directive.argument.vue-html",
         "entity.other.attribute-name.js.jsx"
       ],
@@ -1232,7 +1233,12 @@
         "foreground": "#dd1856"
       }
     },
-
+    {
+      "scope": "support.class.component.html",
+      "settings": {
+        "foreground": "#9b3f1b"
+      }
+    },
     {
       //json.parse
       //"property": "#2d9756"
