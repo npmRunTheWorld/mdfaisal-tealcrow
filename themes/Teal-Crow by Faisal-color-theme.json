@@ -1225,7 +1225,6 @@
     {
       "scope": [
         "entity.name.directive.vue-html",
-        "entity.other.attribute-name.html",
         "variable.other.directive.argument.vue-html",
         "entity.other.attribute-name.js.jsx"
       ],
@@ -1236,7 +1235,8 @@
     {
       "scope": "support.class.component.html",
       "settings": {
-        "foreground": "#9b3f1b"
+        "foreground": "#4e7a24",
+        "fontStyle": "bold"
       }
     },
     {
@@ -1298,7 +1298,10 @@
       }
     },
     {
-      "scope": "storage.type.function.arrow",
+      "scope": [
+        "storage.type.function.arrow",
+        "punctuation.separator.key-value.html"
+      ],
       "settings": {
         "foreground": "#FB4934"
       }
