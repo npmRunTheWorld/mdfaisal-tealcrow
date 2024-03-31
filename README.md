@@ -7,7 +7,7 @@ This theme contains the beautiful colors of teal and orange as primary colors an
 <div>
   <div align="center">
     <p>Javascript syntax highlight</p>
-    <img src="./images/htmlBody.png" alt="html-body-code"/> 
+    <img src="./images/script.png" alt="html-body-code"/> 
   </div>
   <div align="center">
     <p>HTML body syntax highlight</p>
