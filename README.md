@@ -5,7 +5,15 @@
 This theme contains the beautiful colors of teal and orange as primary colors and plays with other complementary colors to bring out the best dark theme with many color distinctions. This allows coders to identify all syntax and keywords clearly with precision. This can be used with any language, but languages like JavaScript (js), JSX, TypeScript (ts), TSX, Vue.js (vue), PHP, HTML, CSS, and SCSS are prioritized for design.
 
 <div>
-  <img src=""/> 
+  <div align="center">
+    <p>HTML body syntax highlight</p>
+    <img src="https://github.com/acej0k3r/mdfaisal-tealcrow/blob/main/images/htmlBody.png" alt="html-body-code"/> 
+  </div>
+  <div align="center">
+    <p>Javascript syntax highlight</p>
+    <img src="https://github.com/acej0k3r/mdfaisal-tealcrow/blob/main/images/script.png" alt="html-body-code"/> 
+  </div>
+</div>
 
 
 
