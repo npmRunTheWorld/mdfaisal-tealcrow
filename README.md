@@ -23,7 +23,11 @@ This theme contains the beautiful colors of teal and orange as primary colors an
 ## Add semanticTokenColorCustomizations, tokenColorCustomizations, and the extension TODO highlight for intended experience
 
  <div align="center">
+    </br>
     <b><p>For best user experience for VUE/NUXT, install the TODO highlight extension by Wayou Liu, and copy paste the JSON code below into your settings.json<p></b>
+    </br>
+    </br>
+    </br>
   </div>
   
   
