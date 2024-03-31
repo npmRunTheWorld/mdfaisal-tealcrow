@@ -2,7 +2,7 @@
 
 ## Description
 
-This theme contains the beautiful colors of teal and orange as primary colors and plays with other complementary colors to bring out the best dark theme with many color distinctions. This allows coders to identify all syntax and keywords clearly with precision. This can be used with any language, but languages like JavaScript (js), JSX, TypeScript (ts), TSX, Vue.js (vue), PHP, HTML, CSS, and SCSS are prioritized for design.
+This theme presents a sophisticated palette featuring teal and orange as primary colors, complemented by a range of harmonious shades. Crafted to deliver an optimal dark theme experience, it offers discerning coders clear visual cues for syntax and keyword identification. While adaptable to any programming language, it excels in enhancing the coding experience for languages and frameworks such as JavaScript, JSX, TypeScript, TSX, Vue, PHP, HTML, CSS, and SCSS.
 
 <div>
   <div align="center">
