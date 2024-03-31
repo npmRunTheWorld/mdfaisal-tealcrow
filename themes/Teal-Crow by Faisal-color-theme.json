@@ -240,13 +240,9 @@
       }
     },
     {
-      "scope": [
-        "entity.name.tag",
-        "punctuation.definition.tag",
-        "entity.name.tag.vue-html"
-      ],
+      "scope": ["entity.name.tag", "punctuation.definition.tag"],
       "settings": {
-        "foreground": "#cec8c8be"
+        "foreground": "#e6ddddbe"
       }
     },
     {
@@ -844,12 +840,6 @@
       ],
       "settings": {
         "foreground": "#D65D0E"
-      }
-    },
-    {
-      "scope": ["entity.name.tag.css"],
-      "settings": {
-        "fontStyle": "normal"
       }
     },
     {

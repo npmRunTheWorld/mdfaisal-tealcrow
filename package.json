@@ -2,7 +2,7 @@
   "name": "mdfaisal-tealcrow",
   "displayName": "mdfaisal.tealcrow",
   "description": "This theme contains the beautiful colors of teal and orange and plays with other complimenting colors to bring out the best dark theme with many color distinctions. This allows coders to identify all syntax and keywords clearly with precision.",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "publisher": "mdfaisal",
   "engines": {
     "vscode": "^1.79.0"
