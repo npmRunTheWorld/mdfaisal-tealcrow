@@ -6,12 +6,15 @@ This theme contains the beautiful colors of teal and orange as primary colors an
 
 <div>
   <div align="center">
+    <p>Javascript syntax highlight</p>
+    <img src="https://github.com/acej0k3r/mdfaisal-tealcrow/blob/main/images/script.png" alt="html-body-code"/> 
+  </div>
+  <div align="center">
     <p>HTML body syntax highlight</p>
     <img src="https://github.com/acej0k3r/mdfaisal-tealcrow/blob/main/images/htmlBody.png" alt="html-body-code"/> 
   </div>
-  <div align="center">
-    <p>Javascript syntax highlight</p>
-    <img src="https://github.com/acej0k3r/mdfaisal-tealcrow/blob/main/images/script.png" alt="html-body-code"/> 
+   <div align="center">
+    <p>For best user experience for VUE/NUXT, install the TODO highlight extension by Wayou Liu, and copy paste the JSON code below into your settings.json<p>
   </div>
 </div>
 
